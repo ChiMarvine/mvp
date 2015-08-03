@@ -18,27 +18,36 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+NBA Player Statistics (NBAPS)
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+Track your favorite NBA player's stats
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+Interested to see how well your favorite basketball player performed in the past season or so? Simply enter the name of the player and get the desired statistics you would like to see.
 
 ## Problem ##
   > Describe the problem your product solves.
+For fantasy draft players they can choose which specific stat they want to view 
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+Gives options of the stats they require and no more than what they need
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+"Statistics made simple and easy."  
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+Simply enter the player's name, check the filter box then bam!
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+No more looking at player statistics that I don't care about!
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+What are you waiting for?! Start scouting for your next fantasy draft with friends!
