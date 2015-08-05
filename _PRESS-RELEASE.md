@@ -18,23 +18,23 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
-NBA Player Statistics (NBAPS)
+Summoner Season Statistics
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-Track your favorite NBA player's stats
+Track your overall ranked season statistics
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-Interested to see how well your favorite basketball player performed in the past season or so? Simply enter the name of the player and get the desired statistics you would like to see.
+Want to compare if you have a better win percentage than your friend? Do you want to see how many total minions and champions you killed last season? Try out Summoner Season Statistics!
 
 ## Problem ##
   > Describe the problem your product solves.
-For fantasy draft players they can choose which specific stat they want to view 
+There is nothing out there that shows overall totals of your performance, just game by game totals.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
-Gives options of the stats they require and no more than what they need
+Grabs over all data of specific stats for each different champions ever played and puts them together
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
@@ -42,12 +42,12 @@ Gives options of the stats they require and no more than what they need
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
-Simply enter the player's name, check the filter box then bam!
+Simply enter both you and your friends summoner name then you're all set.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-No more looking at player statistics that I don't care about!
+"I always wanted to find out how many minions I killed the whole season last year!" -Shawn, League Addict
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
-What are you waiting for?! Start scouting for your next fantasy draft with friends!
+What are you waiting for?! Start comparing with your friends and see who secured the most objectives!

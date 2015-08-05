@@ -1,0 +1,38 @@
+html {
+	font-family: 'Trade Winds', cursive;
+	height: 100%;
+   margin: 0 auto;
+   text-align: center;
+   color: white;
+}
+
+#summOne, #summTwo {
+	font-family: 'Trade Winds', cursive;
+	height: 35px;
+	width: 300px;
+	font-size: 15px;
+	border-radius: 13px;
+}
+
+#summoner1, #summoner2 {
+	font-size: 30px;
+	margin-top: 50px;
+}
+
+#vs {
+	font-family: 'Trade Winds', cursive;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+
+#list {
+	font-family: 'Trade Winds', cursive;
+	border-radius: 5px;
+	font-size: 15px;
+	height: 30px;
+	width: 150px;
+	border: 2px solid black;
+	margin-top: 375px;
+	margin-left: auto;
+	margin-right: auto;
+}

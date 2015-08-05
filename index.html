@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>League Stats</title>
+	
+	<link rel="stylesheet" type="css/text" href="styles.css"/>
+	<link rel="stylesheet" type="css/text" href="font.css"/>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>	
+	<link href='http://fonts.googleapis.com/css?family=Trade+Winds' rel='stylesheet' type='text/css'>
+	<script src="app.js"></script>
+
+</head>
+<body>
+	<div class="container">
+		
+		<header class="title">
+			<h1>Summoner Season Statistics</h1>
+				<input id="summOne" placeholder="summoner name"/>
+				<input id="vs" type="button" value="VS"/>
+				<input id="summTwo" placeholder="summoner name"/>
+		</header>
+		<div class="one">
+			<div id="summoner1"></div>
+			<div id="totalChampionKills1"></div>
+			<div id="totalDeathsPerSession1"></div>
+			<div id="totalAssists1"></div>
+			<div id="kda1"></div>
+			<div id="totalMinionKills1"></div>
+			<div id="totalTurretsKilled1"></div>
+			<div id="totalSessionsWon1"></div>
+			<div id="totalSessionsLost1"></div>
+			<div id="winRatio1"></div>
+		</div>
+		<div class="logo"><img class="vs" src="vs.png"></div>
+		<div class="two">
+			<div id="summoner2"></div>
+			<div id="totalChampionKills2"></div>
+			<div id="totalDeathsPerSession2"></div>
+			<div id="totalAssists2"></div>
+			<div id="kda2"></div>
+			<div id="totalMinionKills2"></div>
+			<div id="totalTurretsKilled2"></div>
+			<div id="totalSessionsWon2"></div>
+			<div id="totalSessionsLost2"></div>
+			<div id="winRatio2"></div>
+		</div>
+		
+		<button id="list">summoner names</button>
+			<div class="list" style="display: none;">
+				xkouki | theoddone | le groot | async | ftlulz | c9 hai | bestriven na
+				<br/> 
+				dyrus | kingtrick | voyboy | robertxlee | iamgosu | c9 meteos | fabbbyyy | azingy |
+			</div>
+	</div>
+</body>
+</html>

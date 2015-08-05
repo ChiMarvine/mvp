@@ -1,0 +1,44 @@
+body {
+    background: url("http://www.free-wallpapers.net/wp-content/uploads/2015/07/League-Of-Legends-Hd-Images-Wallpapers-Image-Hd-Wallpaper.jpg");
+    background-size: cover;
+    font-family: 'Trade Winds', cursive;
+}
+
+.container {
+	height: 625px;
+	width: 700px;
+	background-color: gray;
+	text-align: center;
+	margin-top: 50px;
+  	margin-left: auto ;
+  	margin-right: auto ;
+  	border-radius: 10px;
+  	border: 3px solid black;
+  	background: rgba(128, 128, 128,.7);
+}
+
+.title {
+    padding-top: 5px
+}
+
+.one {
+	float: left;
+	height: 275px;
+	width: 275px;
+}
+
+.two {
+	float: right;
+	height: 275px;
+	width: 275px
+}
+
+.vs {
+	height: 225px;		
+	position: absolute;
+}
+
+.logo {
+	float: left;
+	margin-top: 35px
+}
